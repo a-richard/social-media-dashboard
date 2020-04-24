@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header-title {
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 .bottom-title {
@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #middle-top, #middle-bottom, #footer {
   position: relative;
-  bottom: 7.5rem;
+  bottom: 7.50rem;
 }
 
 .container-fluid {
@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: var(--headerBackgroundColor);
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
-  padding-bottom: 7.5rem;
+  padding-bottom: 6rem;
 }
 
 .header-left-container {
@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .header-right-container {
   position: relative;
-  top: 5px;
+  top: 0px;
 }
 
 .mobile-hr {
