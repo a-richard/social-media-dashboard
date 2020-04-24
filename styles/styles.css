@@ -62,11 +62,11 @@ h1, h2, h3, h4, h5, h6 {
 
 #middle-top, #middle-bottom, #footer {
   position: relative;
-  bottom: 9.5rem;
+  bottom: 7.5rem;
 }
 
 .container-fluid {
-  padding: 1% 10%;
+  padding: 0 10% 2%;
 }
 
 .row {
@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: var(--headerBackgroundColor);
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
-  padding-bottom: 10rem;
+  padding-bottom: 7.5rem;
 }
 
 .header-left-container {
@@ -197,7 +197,7 @@ input:checked + .slider:before {
 .card-header {
   background-color: inherit;
   border: none;
-  padding: 1.875rem 1.25rem .625rem;
+  padding: 1.3rem 1.25rem 0;
 }
 
 .card {
